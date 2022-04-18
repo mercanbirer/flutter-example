@@ -3,6 +3,7 @@ A new Flutter project.
 
 ## Getting Started
 BASE_URL : https://www.breakingbadapi.com/api/
+
 *SpinKit
 *AnimatedTextKit
 *FadeEffect
