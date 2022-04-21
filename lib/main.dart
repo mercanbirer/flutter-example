@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_example/screens/CharecterList.dart';
+import 'package:flutter_example/screens/CharecterListScreen.dart';
 import 'package:http/http.dart';
 
 void main() {
@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
           accentColor: Colors.amberAccent,
           secondaryHeaderColor: Colors.blueGrey,
           backgroundColor: Colors.black12),
-      home: const CharecterList(),
+      home: const CharecterListScreen(),
 
     );
   }
