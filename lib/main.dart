@@ -21,7 +21,7 @@ class _MyAppState extends State<MyApp> {
       theme: ThemeData(
           primarySwatch: Colors.blue,
           scaffoldBackgroundColor: Colors.brown,
-          accentColor: Colors.amberAccent,
+          hintColor: Colors.amberAccent,
           secondaryHeaderColor: Colors.blueGrey,
           backgroundColor: Colors.black12),
       home: const CharecterListScreen(),
